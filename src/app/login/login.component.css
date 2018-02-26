@@ -1,0 +1,14 @@
+.form-element{
+   width:200px;
+   margin:0 auto;
+   padding: 10px 0px; 
+}
+.form-label{
+    display: block;
+}
+.linkGeneral{text-decoration: none; display:inline-block;}
+.linkGeneral:hover{cursor: pointer;}
+.signin-button{cursor: pointer;}
+
+
+.form-toolbar{display:block;margin:0 auto; width:180px;}

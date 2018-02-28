@@ -12,3 +12,6 @@
 
 
 .form-toolbar{display:block;margin:0 auto; width:180px;}
+
+#username.ng-invalid.ng-dirty{border:1px solid red;}
+#password.ng-invalid.ng-dirty{border:1px solid red;}
